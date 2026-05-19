@@ -2,4 +2,4 @@
 
 
  - 🌱 I’m currently learning Go
- - 🏗️ I am a homelab enthusist
+ - 🏗️ I am a homelab enthusiast
